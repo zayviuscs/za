@@ -1,0 +1,4 @@
+include ':zayvius_1-release'
+include ':zayvius_1'
+include ':app'
+rootProject.name = "Lib Zayvius"
